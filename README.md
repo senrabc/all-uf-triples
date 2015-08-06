@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/4064/senrabc/all-uf-triples.svg)](https://zenodo.org/badge/latestdoi/4064/senrabc/all-uf-triples)
 # all-uf-triples
 All the UF triples from the UF triple store.
 
